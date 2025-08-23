@@ -13,7 +13,7 @@
 ## Kernel Type
 
 <p align="center"><a href="https://en.wikipedia.org/wiki/Kernel_(operating_system)">
-  <img width="50%" src="./.assets/kernel-type.svg" />
+  <img width="75%" src="./.assets/kernel-type.svg" />
 </a></p>
 
 
