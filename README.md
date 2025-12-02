@@ -1,4 +1,8 @@
-# Awesome [OS](https://en.wikipedia.org/wiki/History_of_operating_systems) [Development](https://en.wikipedia.org/wiki/List_of_operating_systems) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+<div align="center">
+
+# **`Awesome`** [OS](https://wikipedia.org/wiki/History_of_operating_systems) [Development](https://wikipedia.org/wiki/List_of_operating_systems) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)]()
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
