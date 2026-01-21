@@ -1,6 +1,6 @@
 <div align="center">
 
-# **`Awesome`** [OS](https://wikipedia.org/wiki/History_of_operating_systems) [Development](https://wikipedia.org/wiki/List_of_operating_systems) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Operating System](https://wikipedia.org/wiki/List_of_operating_systems) (_[OS](https://wikipedia.org/wiki/History_of_operating_systems)_) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
